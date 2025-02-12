@@ -50,7 +50,7 @@ div.image-container {
     gap: 20px; /* Espacement entre les images */
     margin: 0; /* Supprime les marges par défaut */
     padding: 0; /* Supprime les espacements par défaut */
-    background-image: url(image/couchersoleil-la-rochelle-photo-rudyenolenny-le-bozec-7-1024x1024.jpg);
+    background-image: url(/image/couchersoleil-la-rochelle-photo-rudyenolenny-le-bozec-7-1024x1024.jpg);
     border-radius: 10px; 
 }
 
