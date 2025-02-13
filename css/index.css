@@ -227,6 +227,12 @@ div.phototeque img {
     font-style: italic;
 }
 
+div.achat {
+    font-size: 20px;
+    font-family: "Kanit", serif;
+    color: red;
+}
+
 footer {
     display: flex;
     background-color: RGB(212, 214, 234);
